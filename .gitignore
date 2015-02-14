@@ -1,0 +1,14 @@
+# Windows
+thumbs.db
+ehthumbs.db
+desktop.ini
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+._*
+
+.Spotlight-V100
+.Trashes
